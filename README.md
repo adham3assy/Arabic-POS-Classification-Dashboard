@@ -28,7 +28,7 @@ It allows users to input Arabic sentences and visualize the predicted POS tags, 
 - 📊 `Dash` and `Dash Bootstrap Components` for responsive UI
 - 🧩 `Plotly Express` and `Graph Objects` for interactive visualizations
 - 🌑 Layout for a modern dark theme with Arabic support
-
+![Example](Screenshot.png)
 ---
 
 ## 🧠 Pretrained Model
